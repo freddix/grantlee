@@ -9,6 +9,7 @@ Source0:	http://downloads.grantlee.org/%{name}-%{version}.tar.gz
 URL:		http://www.gitorious.org/grantlee/pages/Home
 BuildRequires:	QtGui-devel
 BuildRequires:	QtScript-devel
+BuildRequires:	QtTest-devel
 BuildRequires:	cmake
 BuildRequires:	qt-build
 BuildRequires:	qt-qmake
